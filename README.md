@@ -1,1 +1,1 @@
-# JEE-CRUD-
+# JEE-CRUD-Hibernate
